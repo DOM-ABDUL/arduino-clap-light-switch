@@ -50,15 +50,21 @@ After installation:
 Sound Sensor → Arduino
 
 Sound Sensor| Arduino UNO
+
 VCC| 5V
+
 GND| GND
+
 OUT| Digital Pin 7
 
 Relay Module → Arduino
 
 Relay| Arduino UNO
+
 VCC| 5V
+
 GND| GND
+
 IN| Digital Pin 13
 
 Light
@@ -121,10 +127,15 @@ This project demonstrates:
 
 Component| Quantity| Approx. Cost
 Arduino UNO| 1| ₹339
+
 Sound Sensor| 1| ₹98
+
 Relay Module| 1| ₹96
+
 Breadboard| 1| and jumper Wires ₹290
+
 Light bulb| 1| ₹50
+
 Total cost ₹873
 
 «Prices can vary depending on the seller and location.»
