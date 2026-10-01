@@ -12,7 +12,7 @@ When a clap is detected:
 
 Clap → Sound Sensor → Arduino → Relay → Light
 
-A second clap can be used to switch the light back OFF.
+CLAP twice to turn light back OFF.
 
 🛠️ Components Required
 
@@ -25,7 +25,7 @@ A second clap can be used to switch the light back OFF.
 - USB Cable
 - Power source
 
-«Safety: If you are controlling a mains-powered AC bulb, do not work with exposed mains wiring unless you know how to do it safely. For beginners, use a low-voltage LED/lamp or have the mains connection handled by a qualified person.»
+Safety: If you are controlling a mains-powered AC bulb, do not work with exposed mains wiring unless you know how to do it safely. For beginners, use a low-voltage LED/lamp or have the mains connection handled by a qualified person.
 
 💻 Software Required
 
@@ -77,13 +77,13 @@ Do not connect mains electricity directly while following a beginner tutorial. U
 
 
 
-"circuit/circuit-diagram.png"
+"circuit-diagram.png"
 
 🚀 Running the Project
 
 1. Assemble the circuit according to the connection table.
 2. Connect the Arduino UNO to your computer.
-3. Open "clap_switch.ino" in Arduino IDE.
+3. COPY the code in "clap_switch.ino" , and paste in the Arduino ide.
 4. Select the correct board and port.
 5. Upload the code.
 6. Disconnect the USB cable if using an appropriate external power source.
@@ -138,7 +138,7 @@ Light bulb| 1| ₹50
 
 Total cost ₹873
 
-«Prices can vary depending on the seller and location.»
+Prices can vary depending on the seller and location.
 
 📜 License
 
