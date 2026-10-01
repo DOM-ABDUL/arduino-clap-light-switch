@@ -115,14 +115,6 @@ This project demonstrates:
 - Hardware-software integration
 - Fundamentals of IoT
 
-🎥 Project Demo
-
-
-
-📸 Project Photos
-
-
-
 💰 Estimated Cost
 
 Component| Quantity| Approx. Cost
