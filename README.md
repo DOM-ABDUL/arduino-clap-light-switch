@@ -16,7 +16,7 @@ A second clap can be used to switch the light back OFF.
 
 🛠️ Components Required
 
-- Arduino UNO
+- Arduino UNO R3
 - Sound Sensor Module
 - 1-Channel Relay Module
 - Light/LED or suitable low-voltage lamp
@@ -37,11 +37,11 @@ Download and install the Arduino IDE from the official Arduino website.
 
 After installation:
 
-1. Connect the Arduino UNO to your computer using a USB cable.
+1. Connect the Arduino UNO R3 to your computer using a USB cable.
 2. Open Arduino IDE.
-3. Select Tools → Board → Arduino UNO.
+3. Select Tools → Board → Arduino AVR Boards → Arduino UNO.
 4. Select the correct Port under Tools → Port.
-5. Open "clap_switch.ino".
+5. COPY the code in "clap_switch.ino" , and paste in the Arduino ide.
 6. Click Verify to compile the code.
 7. Click Upload to upload the program to the Arduino.
 
@@ -126,7 +126,7 @@ This project demonstrates:
 💰 Estimated Cost
 
 Component| Quantity| Approx. Cost
-Arduino UNO| 1| ₹339
+Arduino UNO R3| 1| ₹339
 
 Sound Sensor| 1| ₹98
 
@@ -140,21 +140,7 @@ Total cost ₹873
 
 «Prices can vary depending on the seller and location.»
 
-📁 Project Files
-
-clap_switch.ino
-circuit/
-└── circuit-diagram.png
-
-images/
-└── project-photo.jpg
-
-👨‍💻 Author
-
-AbdulMuneem Sonibare
-
-Built as a hands-on Arduino/IoT project.
-
 📜 License
 
 This project is open source and available for learning and educational purposes.
+Built as a hands-on Arduino/IoT project.
